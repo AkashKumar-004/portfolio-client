@@ -1,5 +1,5 @@
 import NavBar from "../Components/NavBar";
-import Cat from '../assets/img/cat.png'
+import Cat from '../assets/img/cat.png';
 const Page=()=>{
     return(
         <>
@@ -23,7 +23,7 @@ const Page=()=>{
                             </div>
                     <div className="h-[15%]  flex items-center justify-center flex-col">
                         <div className="h-[80%] w-[80%] flex text-start justify-start">
-                            <div className="flex items-center justify-start w-full h-full ">hi fkfskhj</div>
+                            <div className="flex items-center justify-start w-full h-full "></div>
                             </div>
                         </div>   
                         </div>
